@@ -19,20 +19,19 @@ Each project is documented with clear steps, screenshots, analysis, and key take
 
 ## 📂 Projects Completed
 
-### 🕵🏽‍♂️ 1. SSH Honeypot with Cowrie
+### 🕵🏽‍♂️ 1. **SSH Honeypot with Cowrie** [Cowrie Honeypot Project](https://github.com/Adegboyega1998/cowrie-honeypot-project)
 
 - ✅ Deployed Cowrie honeypot on Ubuntu Server
 - ✅ Simulated SSH attack from Kali Linux
-- ✅ Captured attacker behavior (e.g. `ls`, `whoami`, `cat /etc/passwd`)
+- ✅ Captured attacker behavior (`ls`, `whoami`, `cat /etc/passwd`)
 - ✅ Analyzed logs using `tail -f cowrie.log`
-- ✅ Documented the full setup in [setup.md](./setup.md)
-- ✅ Provided detailed insights in [analysis.md](./analysis.md)
+- ✅ Documented full setup in `setup.md` and findings in `analysis.md`
 
 🖼️ Includes:  
 - 15+ Screenshots  
-- Real terminal commands  
-- Log file samples  
-- Reflection on attacker behavior
+- Real attack simulation  
+- Log samples and analysis  
+- Key insights and reflection
 
 ---
 
