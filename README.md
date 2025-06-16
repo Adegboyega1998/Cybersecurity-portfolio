@@ -19,7 +19,7 @@ Each project is documented with clear steps, screenshots, analysis, and key take
 
 ## 📂 Projects Completed
 
-### 🕵🏽‍♂️ 1. **SSH Honeypot with Cowrie** [Cowrie Honeypot Project](https://github.com/Adegboyega1998/cowrie-honeypot-project)
+### 🕵🏽‍♂️ 1. [SSH Honeypot with Cowrie](https://github.com/Adegboyega1998/cowrie-honeypot-project)
 
 - ✅ Deployed Cowrie honeypot on Ubuntu Server
 - ✅ Simulated SSH attack from Kali Linux
